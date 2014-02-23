@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=latex 2013.10.31)  22 FEB 2014 22:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=latex 2013.10.31)  22 FEB 2014 22:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -215,4 +215,4 @@ Here is how much of TeX's memory you used:
  34 hyphenation exceptions out of 8191
  33i,26n,43p,236b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on hw1.dvi (6 pages, 11232 bytes).
+Output written on hw1.dvi (6 pages, 11348 bytes).

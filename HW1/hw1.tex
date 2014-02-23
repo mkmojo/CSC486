@@ -98,11 +98,11 @@
 %-------------------------------------------------------------------------------------
 
 \newcommand{\hmwkTitle}{Assignment\ \#1} % Assignment title
-\newcommand{\hmwkDueDate}{Monday,\ January\ 1,\ 2012} % Due date
-\newcommand{\hmwkClass}{BIO\ 101} % Course/class
-\newcommand{\hmwkClassTime}{10:30am} % Class/lecture time
-\newcommand{\hmwkClassInstructor}{Jones} % Teacher/lecturer
-\newcommand{\hmwkAuthorName}{John Smith} % Your name
+\newcommand{\hmwkDueDate}{Tue,\ Feb\ 25,\ 2014} % Due date
+\newcommand{\hmwkClass}{CSC\ 486} % Course/class
+\newcommand{\hmwkClassTime}{12:25am} % Class/lecture time
+\newcommand{\hmwkClassInstructor}{Muthuv} % Teacher/lecturer
+\newcommand{\hmwkAuthorName}{Qiyuan Qiu} % Your name
 
 %-------------------------------------------------------------------------------------
 %	TITLE PAGE
@@ -358,10 +358,11 @@ $$
         \[
             Pr[C_i = 1] = Pr[C_i \  \text{is satisfied}] = 1 - (1/2)^{t_{c_i}}
         \]
+        Because we know that $1 \le t_{c_i} \le n$, so we have:
         \begin{equation}
         \label{eq:1}
             \begin{split}
-            E[(1/2)^{t_{c_i}}] \le E[(1/2)^1]
+                E[(1/2)^{t_{c_i}}] \le E[(1/2)^1] = (1/2)^1
             \end{split}
         \end{equation}
         The expectation of $Z$ is:
